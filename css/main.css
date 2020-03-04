@@ -1,0 +1,58 @@
+body{
+    font-family: 'Oxanium', cursive; 
+    font-size: 14px;
+}
+nav{
+    margin-top: 25px;
+}
+.logo{
+    float: left;
+}
+.search{
+    float: right;
+}
+.menu-buuton{
+    float: right;
+}
+.header__title h1{
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    color: #151515;
+    padding-top: 106px;
+}
+.header__title p{
+    font-size: 18px;
+    line-height: 28px;
+    color:#222222;
+    opacity: 0.7;
+    padding-bottom: 56px;
+}
+.header__bnt a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #4737FF;
+    padding: 15px 35px 15px;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.video{
+    width: 650px;
+    height: 500px;
+    margin-top: 80px;
+}
+.about__title h1{
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    color: #222222;
+}
+.about__title p{
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+    opacity: 0.7;
+}
